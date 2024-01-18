@@ -11,3 +11,13 @@ This Python script is a Hash Cracker Tool, authored by Abdal3tiby. It cracks has
 ```bash
 cd Hashcrake
 ```
+```bash
+pip install -r requirements.txt
+```
+3.**Create a short cut**
+###liunx
+```bash
+alies hashcraker="path/to/main.py"
+```
+
+>replace the path/to to the path of the python script in your local machine
