@@ -7,27 +7,27 @@ This Python script is a Hash Cracker Tool, authored by Abdal3tiby. It cracks has
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Abdaluh-alotiby/Hashcraker.git```
-2.**Install requirements**
-```bash
-cd Hashcrake/craking_tool
-```
-```bash
-pip install -r requirements.txt
-```
-3.**Create a short cut**
+2. **Install requirements**
+   ```bash
+   cd Hashcrake/craking_tool
+   ```
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Create a short cut**
 
 
-```bash
-chmod +x shortcut.sh
-```
+   ```bash
+   chmod +x shortcut.sh
+   ```
 
-```bash
-./shortcut.sh
-```
+   ```bash
+   ./shortcut.sh
+   ```
 or 
-```bash
-bash shortcut.sh
-```
+   ```bash
+   bash shortcut.sh
+   ```
 
 
 >replace the path/to to the path of the python script in your local machine
