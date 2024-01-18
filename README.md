@@ -8,6 +8,6 @@ This Python script is a Hash Cracker Tool, authored by Abdal3tiby. It cracks has
    ```bash
    git clone https://github.com/Abdaluh-alotiby/Hashcraker.git```
 2.**Install requirements**
-    ```bash
-    cd Hashcrake
-    pip install -r requirements.txt```
+```bash
+cd Hashcrake
+```
