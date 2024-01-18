@@ -15,7 +15,7 @@ cd Hashcrake
 pip install -r requirements.txt
 ```
 3.**Create a short cut**
-###liunx
+### liunx
 ```bash
 alies hashcraker="path/to/main.py"
 ```
