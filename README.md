@@ -6,4 +6,8 @@ This Python script is a Hash Cracker Tool, authored by Abdal3tiby. It cracks has
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Abdaluh-alotiby/Hashcraker.git
+   git clone https://github.com/Abdaluh-alotiby/Hashcraker.git```
+2.**Install requirements**
+    ```bash
+    cd Hashcrake
+    pip install -r requirements.txt```
