@@ -9,34 +9,25 @@ This Python script is a Hash Cracker Tool, authored by Abdal3tiby. It cracks has
    git clone https://github.com/Abdaluh-alotiby/Hashcraker.git```
 2.**Install requirements**
 ```bash
-cd Hashcrake
+cd Hashcrake/craking_tool
 ```
 ```bash
 pip install -r requirements.txt
 ```
 3.**Create a short cut**
-### liunx
-```bash
-alies hashcraker="path/to/main.py"
-```
-### MacOS
 
-Open the file using a text editor:
-```bash
-nano ~/.bash_profile
-```
-
-Add an alias line:
 
 ```bash
-alias hashcracker="path/to/main.py"
+chmod +x shortcut.sh
 ```
-
-
-Save the file and apply the changes:
 
 ```bash
-source ~/.bash_profile
+./shortcut.sh
 ```
+or 
+```bash
+bash shortcut.sh
+```
+
 
 >replace the path/to to the path of the python script in your local machine
