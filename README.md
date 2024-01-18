@@ -30,4 +30,4 @@ or
    ```
 
 
->replace the path/to to the path of the python script in your local machine
+>[contant](https://t.me/Abdal3tiby_bot)
