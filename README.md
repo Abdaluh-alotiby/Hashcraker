@@ -19,5 +19,24 @@ pip install -r requirements.txt
 ```bash
 alies hashcraker="path/to/main.py"
 ```
+### MacOS
+
+Open the file using a text editor:
+```bash
+nano ~/.bash_profile
+```
+
+Add an alias line:
+
+```bash
+alias hashcracker="path/to/main.py"
+```
+
+
+Save the file and apply the changes:
+
+```bash
+source ~/.bash_profile
+```
 
 >replace the path/to to the path of the python script in your local machine
