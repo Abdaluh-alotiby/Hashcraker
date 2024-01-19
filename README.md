@@ -9,7 +9,7 @@ This Python script is a Hash Cracker Tool, authored by Abdal3tiby. It cracks has
    git clone https://github.com/Abdaluh-alotiby/Hashcraker.git```
 2. **Install requirements**
    ```bash
-   cd Hashcrake/craking_tool
+   cd Hashcraker/craking_tool
    ```
    ```bash
    pip install -r requirements.txt
