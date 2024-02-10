@@ -14,5 +14,5 @@ if [ -e "main.py" ]; then
 else
     echo -e "${RED}Failed file [ main.py] does not exist.${NC}"
 fi
-alias hashcraker='python3 /bin/main.py'
+echo "alias hashcraker='python3 /bin/main.py'" >> ~/.profile
 echo 'you can run script useing hashcraker'
