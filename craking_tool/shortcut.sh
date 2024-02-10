@@ -9,7 +9,7 @@ current_directory=$(pwd)
 echo "Current working directory: $current_directory"
 
 if [ -e "main.py" ]; then
-    mv main.py /bin/main.py
+    cp main.py /bin/main.py
     echo "File successfully moved to /bin/"
 else
     echo -e "${RED}Failed file [ main.py] does not exist.${NC}"
