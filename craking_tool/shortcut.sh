@@ -16,3 +16,5 @@ else
 fi
 echo "alias hashcraker='python3 /bin/main.py'" >> ~/.profile
 echo 'you can run script useing hashcraker'
+source ~/.profile
+echo -e "${GREEN}DONE!${NC}"
